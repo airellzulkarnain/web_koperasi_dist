@@ -10,9 +10,9 @@
     <li>Install XAMPP di komputer.</li>
     <li>Tambahkan 
         <pre>
-            <IfModule mod_mime.c>
+            &lt;IfModule mod_mime.c&gt;
                 AddType text/javascript js mjs
-            </IfModule>
+            &lt;/IfModule&gt;
         </pre>
         pada httpd.conf
     </li>
