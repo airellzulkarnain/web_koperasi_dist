@@ -14,7 +14,7 @@
                 AddType text/javascript js mjs
             &lt;/IfModule&gt;
         </pre>
-        pada httpd.conf
+        pada bagian akhir file httpd.conf
     </li>
     <li>import file schema database dari folder DATABASE ke MySQL</li>
     <li>Pindahkan file didalam folder FRONTEND ke dalam folder c:\xampp\htdocs\program_koperasi\</li>
